@@ -1,0 +1,35 @@
+body {
+  margin: 25px;
+  font-family: 'open_sansregular';
+  color: #000;
+  letter-spacing: 0.05;
+  line-height: 1.5;
+}
+
+input {
+  text-align: right;
+}
+
+table {
+  width: 100%;
+  font-size: 10px;
+}
+
+header.row {
+  margin-bottom: 50px;
+  color: #56a2ac;
+}
+
+strong {
+  font-family: 'open_sansbold';
+}
+
+
+
+
+
+@media screen and (max-width: 768px) {
+
+
+
+}
